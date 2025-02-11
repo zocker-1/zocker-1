@@ -1,4 +1,7 @@
 ## Hi there 👋
+i am Zocker and here you can find some Codes from me, which I provide for everyone!
+
+I am from Germany🇩🇪 and speak German. Here are my [Links](https://premiumway-hosting.de/@zocker). 
 
 <!--
 **zocker-1/zocker-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
